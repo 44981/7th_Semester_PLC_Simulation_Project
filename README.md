@@ -26,7 +26,9 @@ Each .zip simulation file contains the OpenPLC Editor project (ladder logic) bui
 **File	Description**
 
 **PLC_Assignment.pdf** --              The PLC project problem statement, assigned by the instructor for individual solving
+
 **PLC_Assignment_Report.pdf**--         	My full solution report for the assignment
+
 **PLC_Simulation_File_OpenPLC.zip** --   The OpenPLC Editor simulation file implementing my solution
 
 🛠️ Tools Used
