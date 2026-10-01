@@ -30,6 +30,9 @@ Each .zip simulation file contains the OpenPLC Editor project (ladder logic) bui
 **PLC_Assignment_Report.pdf**--         	My full solution report for the assignment
 
 **PLC_Simulation_File_OpenPLC.zip** --   The OpenPLC Editor simulation file implementing my solution
+**Solution**
+<img width="806" height="447" alt="image" src="https://github.com/user-attachments/assets/27eb66fa-c67a-4001-91c8-e9aa077719ed" />
+
 
 🛠️ Tools Used
 
